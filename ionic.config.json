@@ -1,0 +1,7 @@
+{
+  "name": "boletim",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
